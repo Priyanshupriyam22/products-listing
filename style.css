@@ -1,0 +1,28 @@
+.border{
+    border: black solid 2px;
+    width: 200px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+button{
+    padding-left: 10px;
+    width: 180px;
+    height: 30px;
+    color: white;
+    background: blue;
+}
+.name{
+    padding-left: 10px;
+}
+.price{
+    padding-left: 10px;
+}
+.add{
+    padding-left: 10px;
+}
+.remove{
+    padding-left: 10px;
+
+}
